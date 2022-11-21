@@ -4,13 +4,13 @@
 
 <img align="right" alt="Coding" width="350"  src="https://i.pinimg.com/originals/85/4f/c1/854fc143b9a24759505e50f74cbc054a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvCii&label=Visit%20viewers&color=0e75b6&style=flat" alt="MinhDung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thandepzai&label=Visit%20viewers&color=0e75b6&style=flat" alt="thandepzai" /> </p>
 
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvCii&label=Profile%20views&color=0e75b6&style=flat" alt="luvcci" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thandepzai&label=Profile%20views&color=0e75b6&style=flat" alt="luvcci" /> </p>
 
-<p align="left"> <a href="https://github.com/LuvCii/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuvCii" alt="luvcci" /></a> </p> -->
+<p align="left"> <a href="https://github.com/thandepzai/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thandepzai" alt="luvcci" /></a> </p> -->
 
 - 🔭 I’m currently working on **PTIT**
 
