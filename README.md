@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **than30052001@gmail.com**
 
-- ⚡ Remember fact **Lc 11:03: "Hãy cứ vô tư và lạc quan lên ems ơi"**
+- ⚡ Remember fact **Lc 11:03: "Code vì tiền"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
