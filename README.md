@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **React, Css and Js**
 
-- 📫 How to reach me **cuthan2k1@gmail.com**
+- 📫 How to reach me **than30052001@gmail.com**
 
 - ⚡ Remember fact **Lc 11:03: "Hãy cứ vô tư và lạc quan lên ems ơi"**
 
