@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)]
-<h1 align="center">Hi 👋, Cu Thân Đẹp Trai</h1>
+<h1 align="center">Hi 👋, I'm Cu Thân</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
 <img align="right" alt="Coding" width="350"  src="https://i.pinimg.com/originals/85/4f/c1/854fc143b9a24759505e50f74cbc054a.gif">
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **cuthan2k1@gmail.com**
 
-- ⚡ Remember fact **Lc 6:20: "Phúc cho anh em là những kẻ nghèo khó, vì Nước Thiên Chúa là của anh em.**
+- ⚡ Remember fact **Lc 11:03: "Hãy cứ vô tư và lạc quan lên ems ơi"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
